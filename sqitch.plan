@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=detector_segment_conditions
+%uri=https://github.com/jmarca/detector_segment_conditions
+
+dsc [tempseg_schema:tempseg_schema] 2016-06-17T15:10:21Z James E. Marca <james@activimetrics.com> # detector segment conditions table
