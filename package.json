@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jmarca/detector_segment_conditions/issues"
   },
-  "homepage": "https://github.com/jmarca/detector_segment_conditions#readme"
+  "homepage": "https://github.com/jmarca/detector_segment_conditions#readme",
+  "dependencies": {
+    "tempseg_schema": "github:jmarca/tempseg_schema"
+  }
 }
