@@ -32,9 +32,6 @@ CREATE TABLE detector_segment_conditions (
     direction text NOT NULL
 );
 
-
-ALTER TABLE tempseg.detector_segment_conditions OWNER TO slash;
-
 --
 -- Name: detector_segment_conditions_pkey; Type: CONSTRAINT; Schema: tempseg; Owner: slash; Tablespace:
 --
